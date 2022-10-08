@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+h1{
+    align-content: center;
+    color: blue;
+    font-family: "Lucida Calligraphy";
+}
+
+.header{
+    background: aqua;
+    color: red;
+}
+
+.section{
+    background-image: url("");
+    color: black;
+    font-family: Harringtone;
+}
+
