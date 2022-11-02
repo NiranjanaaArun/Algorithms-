@@ -12,3 +12,11 @@ def word(str1):
 string = "goose"
 result = word(string)
 print(result)
+
+
+
+
+
+
+
+

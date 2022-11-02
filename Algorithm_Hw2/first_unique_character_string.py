@@ -12,7 +12,6 @@
 def unique(string1: str):
     string1=string1.lower()
     d = {}
-    e = "xoxo"
     for letter in string1: #google
         if letter not in d:
             d[letter] = 1
